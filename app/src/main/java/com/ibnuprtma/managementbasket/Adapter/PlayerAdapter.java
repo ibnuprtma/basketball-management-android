@@ -1,4 +1,4 @@
-package com.example.managementbasket.Adapter;
+package com.ibnuprtma.managementbasket.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,11 +12,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.managementbasket.Config.InitService;
-import com.example.managementbasket.Config.UpdateDeleteListener;
-import com.example.managementbasket.MapsActivity;
-import com.example.managementbasket.Model.Player;
-import com.example.managementbasket.R;
+import com.ibnuprtma.managementbasket.Config.InitService;
+import com.ibnuprtma.managementbasket.Config.UpdateDeleteListener;
+import com.ibnuprtma.managementbasket.MapsActivity;
+import com.ibnuprtma.managementbasket.Model.Player;
+import com.ibnuprtma.managementbasket.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.managementbasket;
+package com.ibnuprtma.managementbasket;
 
 import android.content.ContentValues;
 import android.content.Context;

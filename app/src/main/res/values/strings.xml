@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Management Basket</string>
+    <string name="name_nim">ibnu pratama - 17410100109</string>
     <string name="title_activity_maps">Map</string>
     <string name="check_connection">100</string>
 </resources>

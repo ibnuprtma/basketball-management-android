@@ -1,4 +1,4 @@
-package com.example.managementbasket.Config;
+package com.ibnuprtma.managementbasket.Config;
 
 public interface UpdateDeleteListener {
     void onUpdate(int position);

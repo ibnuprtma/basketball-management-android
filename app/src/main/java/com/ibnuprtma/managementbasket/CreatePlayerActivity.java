@@ -1,4 +1,4 @@
-package com.example.managementbasket;
+package com.ibnuprtma.managementbasket;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,8 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.managementbasket.Config.InitService;
-import com.example.managementbasket.Model.PostPutDelPlayer;
+import com.ibnuprtma.managementbasket.Config.InitService;
+import com.ibnuprtma.managementbasket.Model.PostPutDelPlayer;
 
 import java.util.Objects;
 

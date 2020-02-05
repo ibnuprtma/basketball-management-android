@@ -1,4 +1,4 @@
-package com.example.managementbasket.Model;
+package com.ibnuprtma.managementbasket.Model;
 
 import com.google.gson.annotations.SerializedName;
 

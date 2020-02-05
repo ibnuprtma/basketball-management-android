@@ -1,4 +1,4 @@
-package com.example.managementbasket;
+package com.ibnuprtma.managementbasket;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.managementbasket;
+package com.ibnuprtma.managementbasket;
 
 import androidx.appcompat.app.AppCompatActivity;
 

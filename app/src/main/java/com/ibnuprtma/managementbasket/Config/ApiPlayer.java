@@ -1,7 +1,7 @@
-package com.example.managementbasket.Config;
+package com.ibnuprtma.managementbasket.Config;
 
-import com.example.managementbasket.Model.GetPlayer;
-import com.example.managementbasket.Model.PostPutDelPlayer;
+import com.ibnuprtma.managementbasket.Model.GetPlayer;
+import com.ibnuprtma.managementbasket.Model.PostPutDelPlayer;
 
 import retrofit2.Call;
 import retrofit2.http.Field;
