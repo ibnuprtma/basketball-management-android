@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Management Basket</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="check_connection">100</string>
+</resources>
